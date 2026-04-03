@@ -39,7 +39,8 @@ input{
     color: #15857A;
 }
 .login-button{
-    margin-top: 10px;
+    padding: 10px;
+    margin-top: 5px;
     background-color: #FF6A3B;
     color: white;
     border-radius: 5px;
